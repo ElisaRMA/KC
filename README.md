@@ -1,9 +1,12 @@
 # KC House Data Insights
 
-
 [FOTO]
 
 The business problem and the ‘House Rocket’ company portraited in this project are ficticional.
+
+_The logo is also fictional_
+
+The resulting app can be accessed [here]()
 
 ## 1. **Project description and Business Problem**
 
@@ -16,11 +19,11 @@ The business questions/problems to be solved are:
 
 ## 2. **Business Assumptions**
     
-    In order to move along with this project some assumptions were made:
+In order to move along with this project some assumptions were made:
     
-    - Duplicate IDs were removed as they were considered data input mistakes. The records were added in duplicate at different time periods possibly due to human error, therefore only the last record was used.
-    - General location, being waterfront (or not), and housing condition were the most decisive characteristics to classify if a house should be purchased.
-    - The season was a decisive information for selling price. 
+- Duplicate IDs were removed as they were considered data input mistakes. The records were added in duplicate at different time periods possibly due to human error, therefore only the last record was used.
+- General location, being waterfront (or not), and housing condition were the most decisive characteristics to classify if a house should be purchased.
+- The season was a decisive information for selling price. 
 
 
 ## 3. **Data Dictionary**
