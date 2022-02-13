@@ -1,17 +1,20 @@
+# KC House Data Insights
+
+
 [FOTO]
 
 The business problem and the ‘House Rocket’ company portraited in this project are ficticional.
 
-1. **Project description and Business Problem**
+## 1. **Project description and Business Problem**
 
-House Rocket is a company based on buying, renovating and selling real estate. The main bottleneck, however, is how to select the best real estate opportunities in order to increase the profit. The best case scenario would be to buy good houses, at good conditions and locations, at a low cost to sell them at a higher price. 
+House Rocket is a company based on King County - USA, based on buying, renovating and selling real estate. The main bottleneck, however, is how to select the best real estate opportunities in order to increase the profit. The best case scenario would be to buy good houses, at good conditions and locations, at a low cost to sell them at a higher price. 
 
 The business questions/problems to be solved are: 
 
 1. Which houses the company should buy and at which price?
 2. Once bought, when should these houses be sold and at which profit margin?
 
-2. **Business Assumptions**
+## 2. **Business Assumptions**
     
     In order to move along with this project some assumptions were made:
     
@@ -20,7 +23,7 @@ The business questions/problems to be solved are:
     - The season was a decisive information for selling price. 
 
 
-3. **Data Dictionary**
+## 3. **Data Dictionary**
 
 The data used in this project was obtained from [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885) and the columns correspond to the list below: 
 
@@ -46,7 +49,7 @@ The data used in this project was obtained from [Kaggle](https://www.kaggle.com/
 - sqft_living15 - The square footage of interior housing living space for the nearest 15 eighbors
 - sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 
-4. **Solution Strategy**
+## 4. **Solution Strategy**
 
 **Step 01.** Determining the business problem
 
@@ -64,7 +67,7 @@ The data used in this project was obtained from [Kaggle](https://www.kaggle.com/
 
 **Step 08.**  Conclusion and Understanting the Business results
 
-5. **Top Insights**
+## 5. **Top Insights**
 
 **H1 - Waterfront houses are 30% more expensive.**
 
@@ -107,7 +110,7 @@ False. Price decreased in 2015.
 False. Prices decrease and increase at the period comprised in the dataset. The months of January, February and November would be the best moment to invest in houses.
 
 
-6. **Business Results**
+## 6. **Business Results**
 
 Based on the analysis done herein, 10486 houses were considered fit for purchase. 
 Such houses had good conditions, were compared based on their location and if they were located in front of water or not.
@@ -119,7 +122,7 @@ If, however, only the houses with a profit margin of 30% were bought, a total of
 By choosing the second option, less then 50% of the suitable houses would be purchased but the resulting profit would represent 68% of the one obtained with all 10486. 
 
 
-7. **Conclusions** 
+## 7. **Conclusions** 
 The main objective of this project was to answer two business questions:
 1. Which houses the company should buy and at which price?
 2. Once bought, when should these houses be sold and at which profit margin?
@@ -134,7 +137,7 @@ This calculation was done by grouping the good real state opportunities based on
 
 At the end of such analysis, the resulting dataset contained 10486 houses, its features, the buying and selling prices and the profit margin of each. 
 
-8. **Next Steps**
+## 8. **Next Steps**
 
 This project was done following the minimal viable product (MVP) concept. The analysis done herein is very simple but offer a good start on a similar business problem. The next steps would be to improve such analysis by applying more sofisticated methods. 
 
