@@ -6,7 +6,7 @@ The business problem and the ‘House Rocket’ company portraited in this proje
 
 _The logo is also fictional_
 
-The resulting app can be accessed [here]()
+The resulting app can be accessed [here](https://kc-insights.herokuapp.com/)
 
 ## 1. **Project description and Business Problem**
 
