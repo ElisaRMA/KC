@@ -3,7 +3,7 @@
 <img src = "https://github.com/ElisaRMA/KC-House-Data-Insights/blob/master/observation-urban-building-business-steel.jpg" width="750">
 </p>
 
-_This logo is also fictional_
+_This logo is fictional_
 
 The business problem and the ‘House Rocket’ company portraited in this project are ficticional.
 
