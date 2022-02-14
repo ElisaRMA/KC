@@ -1,10 +1,11 @@
 # KC House Data Insights
+<p align="center">
+<img src = "https://github.com/ElisaRMA/KC-House-Data-Insights/blob/master/observation-urban-building-business-steel.jpg" width="750">
+</p>
 
-[FOTO]
+_This logo is also fictional_
 
 The business problem and the ‘House Rocket’ company portraited in this project are ficticional.
-
-_The logo is also fictional_
 
 The resulting app can be accessed [here](https://kc-insights.herokuapp.com/)
 
@@ -148,4 +149,4 @@ First, a statistical analysis could be done on the business hypothesis testing, 
 
 The implementation of machine learning algorithm could start with simple regression models and evolve to the use of random forest or more complex, models.  
 
-This project was done following the context and suggestions offered in the [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) blog
+> _This project was done following the context and suggestions offered in the [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) blog_
